@@ -3,7 +3,7 @@
 1.初始化空项目
 
 ```
-npm create vite@latest --template solid-ts
+npm create vite@latest -- --template solid-ts
 ```
 
 2.添加依赖
